@@ -1,0 +1,2 @@
+# Ignore all SQLight databases
+db/*.sqlite3
